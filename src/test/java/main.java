@@ -6,5 +6,12 @@ public class main {
         solarSystem.Planets="2";
         solarSystem.Stars="10";
 
+
+
+        FeatureSun Sun=new FeatureSun();
+        Sun.color="red";
+        Sun.name="Maria";
+        Sun.temp="-12547Kelvin";
+
     }
 }
