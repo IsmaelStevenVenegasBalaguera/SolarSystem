@@ -13,5 +13,12 @@ public class main {
         Sun.name="Maria";
         Sun.temp="-12547Kelvin";
 
+
+        Planet1 plato=new Planet1();
+        plato.color="green";
+        plato.name="abraca";
+        plato.temp="10000k";
+        plato.radius="800000";
+
     }
 }
